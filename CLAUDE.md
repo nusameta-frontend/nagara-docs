@@ -1,7 +1,7 @@
 # CLAUDE.md — nagara-docs
 
 Assets (and later, Git Sync sources) for the Nagara developer docs on GitBook
-(`https://nagara-2.gitbook.io/nagara-docs/`, org "Nagara", site "Nagara Docs").
+(`https://nagara-network.gitbook.io/nagara-docs/`, org "Nagara", site "Nagara Docs").
 
 ## State
 
