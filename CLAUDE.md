@@ -11,6 +11,7 @@ Assets (and later, Git Sync sources) for the Nagara developer docs on GitBook
   `HelloNagara` deployed at `0x40f093D4464398aC369C04cE8C8E4AA6d642C0A5`.
 - `.gitbook/assets/brand/` — Nagara $NGRX logo, 2026-10-16: `nagara-logo.png` (colour, for light mode) and
   `nagara-logo-white.png` (for dark mode). Site header logo points at these via raw URLs on branch `assets/ngrx-logo`.
+  `nagara-icon.png` / `nagara-icon-white.png` (512x512, the N mark only) are the favicon, light/dark.
 - Pages are edited in GitBook through change requests; Git Sync is not wired yet.
 
 ## Known issues found while writing the docs
