@@ -9,6 +9,8 @@ Assets (and later, Git Sync sources) for the Nagara developer docs on GitBook
   "Deploy your first contract" page (MetaMask 13.50, Remix 2.6.5 at app.remix.live),
   captured 2026-10-06 against Nagara Testnet (16869). The walkthrough was executed for real:
   `HelloNagara` deployed at `0x40f093D4464398aC369C04cE8C8E4AA6d642C0A5`.
+- `.gitbook/assets/brand/` — Nagara $NGRX logo, 2026-10-16: `nagara-logo.png` (colour, for light mode) and
+  `nagara-logo-white.png` (for dark mode). Site header logo points at these via raw URLs on branch `assets/ngrx-logo`.
 - Pages are edited in GitBook through change requests; Git Sync is not wired yet.
 
 ## Known issues found while writing the docs
